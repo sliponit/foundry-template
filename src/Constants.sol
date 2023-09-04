@@ -24,6 +24,7 @@ abstract contract Constants {
   // Chain IDs
   uint256 internal constant ETHEREUM_CHAIN_ID = 1;
   uint256 internal constant OPTIMISM_CHAIN_ID = 10;
+  uint256 internal constant OPTIMISM_GOERLI_CHAIN_ID = 420;
 
   // Deploy parameters
   // Chainlink VRF

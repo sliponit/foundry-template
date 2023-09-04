@@ -24,6 +24,7 @@ abstract contract ScriptHelpers is Constants, Script {
   // Deployment paths
   string internal constant ETHEREUM_PATH = "broadcast/Deploy.s.sol/1/";
   string internal constant OPTIMISM_PATH = "broadcast/Deploy.s.sol/10/";
+  string internal constant OPTIMISM_GOERLI_PATH = "broadcast/Deploy.s.sol/420/";
   string internal constant LOCAL_PATH = "/broadcast/Deploy.s.sol/31337";
 
   string internal DEPLOY_POOL_SCRIPT;
