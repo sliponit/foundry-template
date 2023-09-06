@@ -1,6 +1,6 @@
 # Foundry template
 
-Template to kickstart a Foundry project.
+Fork of https://github.com/pooltogether/foundry-template using scripts from https://github.com/GenerationSoftware/pt-v5-mainnet to only deploy AaveV3YieldVault
 
 ## Getting started
 
